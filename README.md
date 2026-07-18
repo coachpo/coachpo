@@ -15,7 +15,7 @@ I build **self-hosted infrastructure and full-stack developer tools** — mostly
 | Project | What it is | Stack |
 |---------|------------|-------|
 | [prism](https://github.com/coachpo/prism) | Self-hosted LLM proxy gateway with multi-provider routing, load balancing, and observability | Go |
-| [ledger](https://github.com/coachpo/ledger) | SignalDeck — a self-hosted "mini-Jenkins" that runs YAML-defined multi-agent LLM pipelines | Python · React |
+| [signaldeck](https://github.com/coachpo/signaldeck) | Self-hosted "mini-Jenkins" that runs YAML-defined multi-agent LLM pipelines | Python · React |
 | [herald](https://github.com/coachpo/herald) | Notification hub: JSON ingest over HTTP, rule-based filtering, delivery to Bark / ntfy / MQTT / Gotify | Python · React |
 | [last-whisper](https://github.com/coachpo/last-whisper) | Dictation training platform — FastAPI backend, React PWA frontend | Python · React |
 | [galaxy-pair-cuda](https://github.com/coachpo/galaxy-pair-cuda) | CUDA kernels for fast two-point galaxy angular correlation | CUDA |
