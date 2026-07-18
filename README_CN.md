@@ -15,7 +15,7 @@
 | 项目 | 简介 | 技术栈 |
 |------|------|--------|
 | [prism](https://github.com/coachpo/prism) | 自托管 LLM 代理网关:多供应商路由、负载均衡、可观测性 | Go |
-| [ledger](https://github.com/coachpo/ledger) | SignalDeck——用 YAML 定义多 Agent 流水线的自托管"迷你 Jenkins" | Python · React |
+| [signaldeck](https://github.com/coachpo/signaldeck) | 用 YAML 定义多 Agent 流水线的自托管"迷你 Jenkins" | Python · React |
 | [herald](https://github.com/coachpo/herald) | 通知中枢:HTTP JSON 接入、规则过滤、分发到 Bark / ntfy / MQTT / Gotify | Python · React |
 | [last-whisper](https://github.com/coachpo/last-whisper) | 听写训练平台——FastAPI 后端 + React PWA 前端 | Python · React |
 | [galaxy-pair-cuda](https://github.com/coachpo/galaxy-pair-cuda) | 星系两点角相关函数的 CUDA 核函数实现 | CUDA |
